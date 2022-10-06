@@ -1,4 +1,4 @@
-package java_list_exercise_221006;
+package java_list_exercise2_221006;
 
 public class RandomNumberGenerator implements NumberGenerator{
 
